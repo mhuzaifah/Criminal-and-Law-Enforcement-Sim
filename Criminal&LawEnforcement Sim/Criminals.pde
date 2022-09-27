@@ -1,10 +1,12 @@
+//By: Muhammad Huzaifah
+
 void setup(){
                                //( name , street name , strength out of 10, intelligence out of 10, coldbloodedness out of 5, speed out of 10 )
   Criminal ronald = new Criminal( "Ronald Dunham", "Strike", 4, 7, 1, 7);
   Criminal rodney = new Criminal( "Rodney Little", "God Father", 7, 9, 4, 6);
   Criminal pablo = new Criminal( "Pablo Hernandez", "El Chapo", 2, 8, 4, 2);
   Criminal nigel = new Criminal( "Nigel Rivers", "The Serpent", 1, 2, 1, 10);
-  Criminal ahmed = new Criminal( "Ahmed Khan", "Psycho", 6, 5, 5, 6);
+  Criminal ahmed = new Criminal( "Ikeremah Khan", "Psycho", 6, 5, 5, 6);
   Criminal ben = new Criminal( "Ben Foster", "Silent Assasin", 8, 10, 5, 9);
   Criminal bruce = new Criminal( "Bruce Banner", "Hulk", 10, 1, 3, 8);
   Criminal yu = new Criminal( "Yu Seong-Ju", "The Doctor", 1, 10, 2, 1);
